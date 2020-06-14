@@ -1,0 +1,2 @@
+# nlp-ml-dl-notes
+my personal notes on nlp ml and dl topics.
